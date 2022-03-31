@@ -1,7 +1,7 @@
-##CleanChickenLib
+## CleanChickenLib
 This is a minimized version of CodeChickenLib with a functioning build enviroment. Please be aware that this project is required for CleanChickenCore, but is not required for CleanChickenCoreLib as it is INCLUDED in that project.
 
-#Legacy CodeChickenLib README
+### Legacy CodeChickenLib README
 
 CodeChickenLib
 ==============
